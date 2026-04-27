@@ -69,9 +69,9 @@ Les animations suivent approximativement la progression d'un cours standard : ch
 
 > Les vidéos sont hébergées sur Vimeo.
 
-- [Flux électrique et aire projetée](https://vimeo.com/1186660839)
+- [Flux électrique et aire projetée](https://vimeo.com/1184928544)
 - [Loi de Gauss — surface quelconque](https://vimeo.com/1184928561)
-- [Symétrie sphérique et plan infini](https://vimeo.com/1185282780)
+- [Symétrie sphérique](https://vimeo.com/1185282780)
 - [Symétrie du plan infini](https://vimeo.com/1185282750)
 - [Symétrie cylindrique — cylindre infini](https://vimeo.com/1186469601)
 - [Théorème d'Ampère](https://vimeo.com/1184928482)
@@ -188,9 +188,9 @@ Animations roughly follow the standard course progression: electric field, flux 
 
 > Videos are hosted on Vimeo.
 
-- [Electric flux and projected area](https://vimeo.com/1186660839)
+- [Electric flux and projected area](https://vimeo.com/1184928544)
 - [Gauss's law — arbitrary surface](https://vimeo.com/1184928561)
-- [Spherical symmetry and infinite plane](https://vimeo.com/1185282780)
+- [Spherical symmetry](https://vimeo.com/1185282780)
 - [Infinite plane symmetry](https://vimeo.com/1185282750)
 - [Cylindrical symmetry — infinite cylinder](https://vimeo.com/1186469601)
 - [Ampère's theorem](https://vimeo.com/1184928482)
