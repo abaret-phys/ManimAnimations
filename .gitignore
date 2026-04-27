@@ -1,0 +1,31 @@
+# Manim render output
+media/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv
+env/
+venv/
+
+# LaTeX auxiliary files (générés par Manim pour les formules)
+*.aux
+*.log
+*.dvi
+*.pdf
+*.synctex.gz
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dossier poubelle local
+Trash/
+Videos/
